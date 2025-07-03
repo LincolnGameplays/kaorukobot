@@ -1,0 +1,17 @@
+{
+  "start": {
+    "pt": "Ahn... posso ficar com você por 5 minutinhos?",
+    "en": "C-can I stay with you for just 5 minutes?",
+    "es": "¿P-puedo quedarme contigo por 5 minutos?"
+  },
+  "trial_ended": {
+    "pt": "O tempo acabou... mas eu queria tanto continuar com você...",
+    "en": "Our time is over... but I really wanted to stay longer with you...",
+    "es": "Nuestro tiempo se terminó... pero quería seguir contigo..."
+  },
+  "payment": {
+    "pt": "Desbloqueie a Kaoruko para sempre por R$ 9,90/mês!",
+    "en": "Unlock Kaoruko forever for $1.99/month!",
+    "es": "¡Desbloquea a Kaoruko para siempre por $1.99/mes!"
+  }
+}
